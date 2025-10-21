@@ -1,7 +1,3 @@
-# Enunciat
-
-# Alerta!!
-
 **EverPia ha estat atacada per ciberdelinqüents.**  
 La consultora on esteu de becaris ha patit una fuita d’informació (data breach) i informació confidencial sobre un projecte que està en fase de desenvolupament està ara en mans de delinqüents que amenacen amb publicar-la si no es paga un rescat.
 
