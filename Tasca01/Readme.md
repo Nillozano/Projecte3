@@ -67,8 +67,8 @@ Dins el repositori del projecte-3 heu de crear una carpeta anomenada **tasca01**
 
 ## Materials i links de suport
 
-[INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-contrasenas-seguras)
-[Pàgina oficial de Bitwarden](https://bitwarden.com)
-[Pàgina oficial de KeePassXC](https://keepassxc.org)
-[INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
+- [INCIBE: Gestión de contraseñas seguras](https://www.incibe.es/protege-tu-empresa/blog/gestion-contrasenas-seguras)
+- [Pàgina oficial de Bitwarden](https://bitwarden.com)
+- [Pàgina oficial de KeePassXC](https://keepassxc.org)
+- [INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
 
