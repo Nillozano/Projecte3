@@ -8,36 +8,56 @@ Utilitzant l'eina seleccionada a la Fase 1 (Bitwarden, KeePassX o similar), s'ha
 - Descarrega i instal·lació de Bitwarden.
 - Creació de la base de dades principal o compte mestre.
 
-![]() <!-- Imatge: Obrim Bitwarden -->
-![]() <!-- Imatge: Creem un compte -->
-![]() <!-- Imatge: Inici de sessió -->
-![]() <!-- Imatge: Formulari de creació de compte -->
-![]() <!-- Imatge: Verificació del correu -->
-![]() <!-- Imatge: Establir contrasenya mestra -->
+Instalem el bitwarden.
+![imatge de bitwareden](img/1.png) 
+
+Obrim el bitwarden.
+![imatge de bitwareden](img/2.png) 
+
+Creem un compte.
+![Inici de sessió](img/3.png) 
+![Formulari de creació de compte ](img/4.png) 
+![Formulari de creació de compte](img/5.png)
+![Formulari de creació de compte](img/6.png)
+![Formulari de creació de compte](img/7.png)
+
+Un cop creada iniciem sessió.
+![iniciem la sessió](img/8.png)
 
 ## 2. Generació de Contrasenyes Segures
 
 Explicació de com utilitzar el generador de contrasenyes de l'eina:
 
 - Paràmetres: longitud, caràcters especials, números, majúscules.
-- Frases de pas amb paraules aleatòries.
 
-![]() <!-- Imatge: Generador de contrasenyes -->
-
+Primer de tot obrim el generador de contrasenyes i configurem una contrasenya (el nombre de caràcters, els tipus…)
+![generador de contrasenyes](img/9.png) 
+![2na part generador de contrasenyes](img/10.png)
+![3ra part generador de contrasenyes](img/11.png)
 ## 3. Exemples d'Ús i Emplenament Automàtic
 
 - Desar una credencial d'un compte de correu electrònic.
 - Desar una credencial d'una aplicació o servei web.
 - Utilitzar l’extensió del navegador per emplenar automàticament les dades.
 
-![]() <!-- Imatge: Inici de sessió a la caixa forta -->
-![]() <!-- Imatge: Afegir URL per guardar credencial -->
+Ara dins de caixes fortes a l’apartat nou iniciem la sessió.
+![Inici de sessió a la caixa forta](img/12.png) 
 
+Seguidament, ens demanaran les credencials.
+![demanaran les credencials](img/13.png) 
+
+I per últim posem un URL per guardar una credencial del servei web.
+![Posem URL per guardar credencial](img/14.png)
 ## 4. Gestió de Còpies de Seguretat (Backup)
 
 - Com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o exportació en Bitwarden).
 - Recomanació: emmagatzematge segur (clau USB xifrada o núvol xifrat).
 
-![]() <!-- Imatge: Exportació de la caixa forta -->
-![]() <!-- Imatge: Confirmació i baixada de l'arxiu -->
+Pel quart punt exportarem la caixa forta, que està dins d’eines.
+![Caixa forta](img/15.png) 
 
+Per poder exportar ens demanaran les credencials.
+![Credencials per exportar](img/16.png) 
+
+I ja tindrem la caixa forta baixada.
+![Fitxer guardat](img/17.png)
