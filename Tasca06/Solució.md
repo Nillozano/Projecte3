@@ -50,7 +50,9 @@ El mode és força senzill, bàsicament hi ha tres comandes a usar:
 - La primera no era autoritativa i aquesta si que ho és.
 
 ![imatge 10](img/10.png)
+
 ![imatge 11](img/11.png)
+
 ![imatge 12](img/12.png)
 #### Resolucions locals
 Finalment es vol comprovar el funcionament de la resolució local, útil per entorns de xarxa local on no es disposa de servidor de noms propi i que evita haver d’accedir a equips o recursos per la seva IP.
@@ -58,3 +60,8 @@ Finalment es vol comprovar el funcionament de la resolució local, útil per ent
 ![imatge 13](img/13.png)
 
 (És l’Anthony)
+
+
+---
+
+[Torna a l'enunciat](readme.md)
