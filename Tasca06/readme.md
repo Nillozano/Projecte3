@@ -80,3 +80,5 @@ Crear un document `guia.md` amb:
 
 # Solució:
 [Solució](Solució.md)
+
+[Vídeo](Video.md)
