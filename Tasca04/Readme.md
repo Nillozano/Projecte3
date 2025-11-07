@@ -7,6 +7,8 @@ Innovatech és una start-up tecnològica emergent que està experimentant un rà
 - **Risc de Seguretat:** Els usuaris sovint reutilitzen les contrasenyes per diversos serveis per evitar l’oblit, augmentant el risc de vulnerabilitats de seguretat.
 - **Manca d'Escalabilitat:** A mesura que Innovatech creix i afegeix més serveis, la gestió d'usuaris es fa cada vegada més insostenible.
 
+![Imatge open LDAP](img/00.png)
+
 El CEO d'Innovatech ha contactat amb **EverPia** per implementar una solució d'autenticació centralitzada. La solució proposada és utilitzar **OpenLDAP** (Lightweight Directory Access Protocol), una solució robusta i de codi obert, que s’adapta perfectament a l'entorn de **GNU/Linux** de l'empresa.
 
 ## Objectiu de la Tasca
