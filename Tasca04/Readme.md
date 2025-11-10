@@ -53,6 +53,6 @@ La solució es basarà en una instal·lació de **OpenLDAP** en un servidor Linu
 ## Conclusió
 Amb aquesta implementació, Innovatech aconseguirà un sistema d'autenticació centralitzada que millorarà la seguretat i l'eficiència operativa de l'empresa, a més de permetre una gestió escalable dels usuaris i accessos a mesura que l'empresa creixi.
 
-
+---
 ## Solució
 [Solució](Solució.md)
