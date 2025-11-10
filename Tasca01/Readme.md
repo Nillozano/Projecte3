@@ -75,4 +75,4 @@ Dins el repositori del projecte-3 heu de crear una carpeta anomenada **tasca01**
 
 # Feina completada
 - [Informe](Informe.md)
-- [Solució](/Solució.md)
+- [Solució](/Solucio.md)
