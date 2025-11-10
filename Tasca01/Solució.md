@@ -62,5 +62,6 @@ Per poder exportar ens demanaran les credencials.
 I ja tindrem la caixa forta baixada.
 ![Fitxer guardat](img/17.png)
 
-## Torna a l'anucnciat
-[Anunciat](Readme.md)
+---
+
+[Torna a l'enunciat](Readme.md)
