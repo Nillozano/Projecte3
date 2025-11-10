@@ -90,5 +90,6 @@ Un gestor de contrasenyes pot mitigar aquests riscos mitjançant:
 Es recomana implementar **Bitwarden** com a gestor de contrasenyes per al personal tècnic d’**EverPia**. La seva facilitat d’ús, capacitat de sincronització, model de seguretat robust i auditories externes el fan ideal per a un entorn corporatiu que necessita una solució escalable, segura i fàcil de desplegar.
 
 
-## Torna a l'anucnciat
-[Anunciat](Readme.md)
+---
+
+[Torna a l'enunciat](Readme.md)
