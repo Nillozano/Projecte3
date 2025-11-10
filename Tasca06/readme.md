@@ -78,7 +78,7 @@ Crear un document `guia.md` amb:
 - **Explicacions relacionades**
 - **Proves de resolució local**
 
+---
 # Solució:
-[Solució](Solució.md)
-
-[Vídeo](Video.md)
+- [Solució](Solució.md)
+- [Vídeo](Video.md)
