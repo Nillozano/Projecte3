@@ -73,6 +73,6 @@ Després de completar la tasca, haureu de presentar les conclusions del treball 
 - [LVM Linux](https://moodle.url)
 - [Espais d’Emmagatzematge (Windows)](https://moodle.url)
 
-
+---
 ## Solució
 [Solució](Solució.md)
