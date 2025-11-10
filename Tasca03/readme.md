@@ -74,3 +74,5 @@ Després de completar la tasca, haureu de presentar les conclusions del treball 
 - [Espais d’Emmagatzematge (Windows)](https://moodle.url)
 
 
+## Solució
+[Solució](Solució.md)
