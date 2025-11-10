@@ -72,7 +72,7 @@ Dins el repositori del projecte-3 heu de crear una carpeta anomenada **tasca01**
 - [Pàgina oficial de KeePassXC](https://keepassxc.org)
 - [INCIBE: Gestores de contraseñas: qué son y cómo pueden mejorar la seguridad de las empresas](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
 
-
+---
 # Feina completada
 - [Informe](Informe.md)
 - [Solució](Solució.md)
