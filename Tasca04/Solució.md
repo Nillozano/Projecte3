@@ -210,3 +210,83 @@ I mirem que s’hagi canviat les dos configuracions.
 ![](img/59.png)
 
 ![](img/60.png)
+
+### 4.4
+Ara instal·lem els mòduls per permetre l’autenticació (per utilitzar nss i libmap).
+
+![](img/61.png)
+
+Després posem l'identificador de recursos del servidor.
+
+![](img/62.png)
+
+Posem el nom per la base de cerca.
+
+![](img/63.png)
+
+Ara l’opció 3.
+
+![](img/64.png)
+
+I permetem que l’usuari root sigui admin de la base de dades.
+
+![](img/65.png)
+
+I ara posem que no requereixi el login. 
+
+![](img/66.png)
+
+Posem a la compte de LDAP a l’usuari root (aquí el innovatech en falta el 17, com a les captures anteriors).
+
+![](img/67.png)
+
+Posem la contrasenya (p@ssw0rd).
+
+![](img/68.png)
+
+I ja ho tindriem.
+
+![](img/69.png)
+
+Mirem que funcioni la connectivitat.
+
+![](img/70.png)
+
+![](img/71.png)
+
+Seguidament editarem el següent arxiu per indicar que fara servir LDAP pels grups i usuaris.
+
+![](img/72.png)
+
+
+![](img/73.png)
+
+Ara aquest arxiu canviant la linea que esta marcada per eliminar la part use_authtok.
+
+![](img/74.png)
+
+![](img/75.png)
+
+I per últim editem aquest arxiu agregant una nova línia per crear els perfils.
+
+![](img/76.png)
+
+![](img/77.png)
+
+Reiniciem el servei.
+
+![](img/78.png)
+
+
+![](img/79.png)
+
+Mirem els usuaris de LDAP estiguin.
+
+![](img/80.png)
+
+Ara editarem aquest arxiu afegint una linea.
+
+![](img/81.png)
+
+
+![](img/82.png)
