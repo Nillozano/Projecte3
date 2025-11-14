@@ -171,7 +171,7 @@ Escalabilitat: Demostrar el procés d'ampliació. Usar l’espai que quedi lliur
 
 ![](img/29.png)
 
-##3. Part Windows: Espais d'Emmagatzematge (Storage Spaces)
+## 3. Part Windows: Espais d'Emmagatzematge (Storage Spaces)
 
 S'ha d'utilitzar Windows 11 (per demostrar les configuracions possibles mitjançant els Espais d'Emmagatzematge (Storage Spaces).
 
