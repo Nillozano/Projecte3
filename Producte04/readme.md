@@ -18,8 +18,11 @@ Per poder copiar fitxers de la vostra màquina virtual Ubuntu Server a la vostra
 Un cop establerta la connectivitat Host-Only, utilitzareu el protocol SCP (Secure Copy Protocol), que és segur i ve inclòs amb el servei SSH, per transferir els fitxers de configuració a la vostra màquina física.
 
   1. Els arxius a copiar seran els que heu editat o creat en la tasca del servidor DNS:
+   
     a. /etc/bind/named.conf.options
+    
     b. /etc/bind/named.cof.local
+    
     c. Arxius de zones creats a la carpeta /etc/bind/zones
 
   2. Per copiar els arxius a la màquina física, cal obrir un terminal al PC i executar la comanda scp. Exemple:
